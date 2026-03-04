@@ -41,6 +41,20 @@ La documentación completa del proyecto (diagramas, análisis, casos de uso, val
 
 - [Memoria del Proyecto (PDF)](TFG.pdf).
 
+## 🖼 Capturas y diagramas
+A continuación se muestran las principales capturas y diagramas de la aplicación:
+
+### Formularios y pantallas
+- **Formulario de bienvenida:** ![Formulario](images/bienvenido1.png)  
+- **Formulario de bienvenida:** ![Formulario](images/bienvenido2.png)  
+- **Formulario de bienvenida:** ![Formulario](images/bienvenido3.png)  
+- **Dashboard (pantalla principal con estadísticas):** ![Dashboard](images/dashboard.png)
+
+### Diagramas de la base de datos
+- **Esquema Entidad-Relación:** ![Esquema ER](images/esquemaER.png)  
+- **Esquema Relacional (tablas):** ![Esquema Relacional](images/esquemaRelacional.png)
+- [Memoria del Proyecto (PDF)](TFG.pdf).
+  
 ## 👥 Autores
 - Manuel Sánchez Romero  
 - Ana Anastasia Bratkiv Bratkiv  
