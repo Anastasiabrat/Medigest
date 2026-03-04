@@ -45,10 +45,10 @@ La documentación completa del proyecto (diagramas, análisis, casos de uso, val
 A continuación se muestran las principales capturas y diagramas de la aplicación:
 
 ### Formularios y pantallas
-<div>
-  <img src="images/bienvenido1.png" alt="Formulario" width="200" style="display:inline-block; margin-right:60px;">
-  <img src="images/bienvenido2.png" alt="Formulario" width="200" style="display:inline-block; margin-right:60px;">
-  <img src="images/bienvenido3.png" alt="Formulario" width="200" style="display:inline-block;">
+<div style="text-align: center;">
+  <img src="images/bienvenido1.png" alt="Formulario" width="200" style="display:inline-block; margin:0 5px;">
+  <img src="images/bienvenido2.png" alt="Formulario" width="200" style="display:inline-block; margin:0 5px;">
+  <img src="images/bienvenido3.png" alt="Formulario" width="200" style="display:inline-block; margin:0 5px;">
 </div>
 <img src="images/dashboard.png" alt="Dashboard" width="600">
 
