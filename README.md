@@ -45,6 +45,19 @@ La documentación completa del proyecto (diagramas, análisis, casos de uso, val
 A continuación se muestran las principales capturas y diagramas de la aplicación:
 
 ### Formularios y pantallas
+<img src="images/bienvenido1.png" alt="Formulario" width="300">
+<img src="images/bienvenido2.png" alt="Formulario" width="300">
+<img src="images/bienvenido3.png" alt="Formulario" width="300">
+<img src="images/dashboard.png" alt="Dashboard" width="400">
+
+### Diagramas de la base de datos
+<img src="images/esquemaER.png" alt="Esquema ER" width="400">
+<img src="images/esquemaRelacional.png" alt="Esquema Relacional" width="400">
+
+<!-- ## 🖼 Capturas y diagramas
+A continuación se muestran las principales capturas y diagramas de la aplicación:
+
+### Formularios y pantallas
 - **Formulario de bienvenida:** ![Formulario](images/bienvenido1.png)  
 - **Formulario de bienvenida:** ![Formulario](images/bienvenido2.png)  
 - **Formulario de bienvenida:** ![Formulario](images/bienvenido3.png)  
@@ -53,7 +66,7 @@ A continuación se muestran las principales capturas y diagramas de la aplicaci�
 ### Diagramas de la base de datos
 - **Esquema Entidad-Relación:** ![Esquema ER](images/esquemaER.png)  
 - **Esquema Relacional (tablas):** ![Esquema Relacional](images/esquemaRelacional.png)
-- [Memoria del Proyecto (PDF)](TFG.pdf).
+- [Memoria del Proyecto (PDF)](TFG.pdf). -->
   
 ## 👥 Autores
 - Manuel Sánchez Romero  
